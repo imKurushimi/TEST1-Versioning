@@ -1,5 +1,3 @@
 # TEST1-Versioning
-Poireau
-Pomme
-Abricot
-Pêche
+Je déteste cette journée, longue et triste
+LoL
